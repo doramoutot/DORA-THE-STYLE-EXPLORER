@@ -1,0 +1,122 @@
+ul li {
+	display: block;
+	list-style-type: none;
+}
+
+ul {
+	list-style-type: disc;
+	color: yellow;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 12px;
+	font-size: 51px;
+}
+
+
+h2 {	
+	text-align: center;
+	font-size: 24px;
+}
+
+
+.social li {
+	display:inline;
+	font-size: 24px;
+}
+
+
+.social {
+	
+}
+
+.barrenav li {
+	display:inline;
+	margin: 0 5%;
+}
+	
+
+.barrenav {
+	font-size: 25px;
+	text-align: center;
+	display: block;
+	margin: 1%
+}
+
+#bigtitle h2 {
+	/*border-top: 2px solid black;
+	border-bottom: 1px solid black;*/
+	padding: 0px;
+	font-family: courier;
+	font-size: 17px;
+
+}
+
+#bigtitle a, #bigtitle a:active, #bigtitle a:hover, #bigtitle a:link,  #bigtitle a:visited {
+	color: black;
+}
+
+
+#main-nav {
+	/*border-bottom: 2px solid black;
+	padding: 15px;*/
+}
+
+
+
+
+#subcribe {
+	position:absolute;
+	top:0;
+	right:0;
+	margin-right: 18px;
+	}
+
+
+.dropdown {
+
+}
+
+.dora2014 {
+	text-align: center;
+	display: block;
+	margin: 33px 0;
+	}
+
+.row {
+}
+
+.fromtheshop {
+width: 82%;
+}
+
+/* Css du div de ligne de séparation après " Dora The Style Explorer" */
+#separateur1 {
+	height: 2px;
+	border-bottom: 2px solid black;
+	width: 75%;
+	margin: 0 auto;
+}
+
+/* Css du div de ligne de séparation après " A project by
+the Other-home of subcultures & style documentary" */
+
+#separateur2 {
+	height: 3px;
+	border-bottom: 1px solid black;
+	width: 75%;
+	margin: 0 auto;
+}
+
+#separateur3 {
+	height: 2px;
+	border-bottom: 2px solid black;
+	width: 75%;
+	margin: 0 auto;
+	margin-bottom: 9%;
+}
+
+
+
+
